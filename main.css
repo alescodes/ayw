@@ -1,0 +1,75 @@
+.main-section1 {
+    padding-top: 150px;
+    display: flex;
+    flex-wrap: wrap;
+    
+
+}
+.section1-div1 {
+    width: 500px;
+    border-radius: 30px;
+    margin-left: 100px;
+    
+    
+    
+    
+    
+}
+.section1-image {
+    width: 500px;
+    border-radius: 20px;
+    height:400px ;
+    margin-bottom: 30px;
+    
+    
+    
+}
+.section1-image2 {
+    width: 112px;
+    border-radius: 10px;
+    margin-right: 10px;
+    
+    
+
+}
+.section1-div2 {
+    flex: 1;
+    margin-left: 90PX;
+    
+    margin-right: 160px;
+}
+.section1-h5 {
+    color: orange;
+}
+.button1-image1 {
+    width: 10px;
+    height: 10px;
+}
+.section1-input {
+    width: 40px;
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.section1-input:hover {
+    background-color: silver;
+}
+.section1-input:active {
+    background-color: wheat;
+}
+.section1-button1 {
+    width: 250px;
+    height: 40px;
+    color: white;
+    background-color: orangered;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+}
+.section1-button1:hover {
+    background-color: gray;
+}
+.section1-button1:active {
+    background-color: silver;
+}
